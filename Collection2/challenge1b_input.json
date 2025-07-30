@@ -1,0 +1,30 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "gnn_drug_discovery_literature_review"
+  },
+  "documents": [
+    { 
+      "filename": "doc1.pdf", 
+      "title": "Molecular Generative Graph Neural Networks for Drug Discovery"
+     },
+    { 
+      "filename": "doc2.pdf", 
+      "title": "Graph Neural Networks for COVID-19 Drug Discovery" 
+    },
+    { 
+      "filename": "doc3.pdf", 
+      "title": "Could Graph Neural Networks Learn Better Molecular Representation for Drug Discovery" 
+    },
+    { 
+      "filename": "doc4.pdf", 
+      "title": "Drug Discovery and Mechanism Prediction with Explainable GNNs: A Comparison Study" 
+    }
+  ],
+  "persona": {
+    "role": "PhD Researcher in Computational Biology"
+  },
+  "job_to_be_done": {
+    "task": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+  }
+}

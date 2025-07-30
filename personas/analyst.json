@@ -1,0 +1,10 @@
+{
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+    "focus": ["revenue trends", "R&D investments", "market positioning strategies", "competitor comparison"],
+    "document_type": "financial_report",
+    "tone": "professional",
+    "depth": "medium",
+    "keywords": [],
+    "topic": "varies"
+}

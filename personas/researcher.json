@@ -1,0 +1,11 @@
+{
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "focus_areas": ["methodology", "dataset", "performance benchmark", "drug discovery", "graph neural networks"],
+    "document_type": "research_paper",
+    "years_covered": null,
+    "tone": "academic",
+    "depth": "high",
+    "keywords": [],
+    "topic": "varies"
+}
