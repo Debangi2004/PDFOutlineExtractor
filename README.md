@@ -1,10 +1,7 @@
 ### Rethink Reading. Rediscover Knowledge
 
 What if every time you opened a PDF, it didn't just sit there—it spoke to you, connected ideas, and narrated meaning across your entire library?
-
 That's the future we're building — and we want you to help shape it.
-
-In the Connecting the Dots Challenge, your mission is to reimagine the humble PDF as an intelligent, interactive experience—one that understands structure, surfaces insights, and responds to you like a trusted research companion.
 
 ### The Journey Ahead
 
@@ -20,19 +17,9 @@ In a world flooded with documents, what wins is not more content — it's contex
 
 Are you in?
 
-It's time to read between the lines. Connect the dots. And build a PDF experience that feels like magic. Let's go.
+It's time to read between the lines. And build a PDF experience that feels like magic. Let's go.
 
 ---
-
-## Challenge Solutions
-
-### [Challenge 1a: PDF Processing Solution](./Challenge_1a/README.md)
-Basic PDF processing with Docker containerization and structured data extraction.
-
-### [Challenge 1b: Multi-Collection PDF Analysis](./Challenge_1b/README.md)
 Advanced persona-based content analysis across multiple document collections.
 
----
-
-**Note**: Each challenge directory contains detailed documentation and implementation details. Please refer to the individual README files for comprehensive information about each solution.
 
