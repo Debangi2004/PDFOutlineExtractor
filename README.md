@@ -1,7 +1,3 @@
-# Adobe India Hackathon 2025
-
-## Welcome to the "Connecting the Dots" Challenge
-
 ### Rethink Reading. Rediscover Knowledge
 
 What if every time you opened a PDF, it didn't just sit there—it spoke to you, connected ideas, and narrated meaning across your entire library?
@@ -39,3 +35,4 @@ Advanced persona-based content analysis across multiple document collections.
 ---
 
 **Note**: Each challenge directory contains detailed documentation and implementation details. Please refer to the individual README files for comprehensive information about each solution.
+
